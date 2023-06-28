@@ -13,4 +13,4 @@ Welcome to my GitHub profile! I'm passionate about coding and exploring the worl
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sowska&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sowska&icon=5&color=10)]
+![](https://visitcount.itsvg.in/api?id=sowska&icon=5&color=10)
