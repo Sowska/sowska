@@ -1,7 +1,7 @@
 # 💫 About Me:
 Welcome to my GitHub profile! I'm passionate about coding and exploring the world of software development. <br>In this space, I share projects, academic practices, and small tools I developed while learning about programming, UML modeling, data structures, graphical interfaces, and more.
 I enjoy writing clear, well-structured code that follows best practices. I also greatly enjoy the analysis behind development: from thinking about how to model a system to exploring algorithms and testing techniques.<br>
-I continue to learn every day, and this profile reflects that journey. <br>Feel free to explore my work, provide feedback, or connect with me for potential collaborations.
+I continue to learn every day, and this profile reflects that journey. <br>Feel free to explore my work, provide feedback, or connect with me!
 
 
 ## 🌐 Socials:
